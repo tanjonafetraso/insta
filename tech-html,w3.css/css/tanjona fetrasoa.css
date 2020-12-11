@@ -1,0 +1,44 @@
+
+#mypicture{
+	width:200px;
+	
+}#mypicture1{
+	width:400px;
+	
+}#mypicture2{
+	width:400px;
+	height:400px
+}#mypicture3{
+	width:840px;
+	height:400px
+}
+.start{
+	font-size:22px;
+}
+.info{
+	font-size:22px;
+}
+#myname{
+	
+	font-size:70px;
+	font-family:"Arial";
+	font-style:bolder;
+	
+}
+.titre{
+	color:rgb(0,17,50);
+	font-size:22px
+}
+a{
+ color:white;
+}
+#myFirtsname{
+	
+	font-size:55px;
+	font-family:"Arial";
+
+}
+#myhead{
+	
+	background-color:gray
+}
